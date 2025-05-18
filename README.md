@@ -10,4 +10,7 @@ This is the repository with all of my machine learning reports for my studies co
 <li><strong>3:</strong> Logistic Regression</li>
 <li><strong>4:</strong> Regularization</li>
 <li><strong>5:</strong> Classification</li>
+<li><strong>6:</strong> Supported Vector Machines</li>
+<li><strong>7:</strong> Principal Component Analysis</li>
+<li><strong>8:</strong> Ensemble Learning</li>
 </ul>
