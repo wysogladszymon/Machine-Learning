@@ -13,4 +13,5 @@ This is the repository with all of my machine learning reports for my studies co
 <li><strong>6:</strong> Supported Vector Machines</li>
 <li><strong>7:</strong> Principal Component Analysis</li>
 <li><strong>8:</strong> Ensemble Learning</li>
+<li><strong>9:</strong> Anomaly detection</li>
 </ul>
